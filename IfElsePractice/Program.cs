@@ -9,10 +9,12 @@ namespace IfElsePractice
             var r = new Random();
             var favNumber = r.Next(1, 1000);
             Console.WriteLine("Give me a number between 1 and 1000");
-            var userInput = int.Parse(Console.ReadLine());
+            int userInput;
 
-            
-                    
+            do
+            {
+                userInput = int.Parse(Console.ReadLine());
+
                 if (userInput < favNumber)
                 {
                     Console.WriteLine("Thats too low");
@@ -25,6 +27,10 @@ namespace IfElsePractice
                 {
                     Console.WriteLine("Nevermind");
                 }
+
+            } while (userInput != favNumber);
+                    
+               
          
         }
     }

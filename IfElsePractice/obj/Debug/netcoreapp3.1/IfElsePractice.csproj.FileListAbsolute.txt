@@ -1,0 +1,13 @@
+C:\Users\jmd22\repos\IfElsePractice\IfElsePractice\bin\Debug\netcoreapp3.1\IfElsePractice.exe
+C:\Users\jmd22\repos\IfElsePractice\IfElsePractice\bin\Debug\netcoreapp3.1\IfElsePractice.deps.json
+C:\Users\jmd22\repos\IfElsePractice\IfElsePractice\bin\Debug\netcoreapp3.1\IfElsePractice.runtimeconfig.json
+C:\Users\jmd22\repos\IfElsePractice\IfElsePractice\bin\Debug\netcoreapp3.1\IfElsePractice.runtimeconfig.dev.json
+C:\Users\jmd22\repos\IfElsePractice\IfElsePractice\bin\Debug\netcoreapp3.1\IfElsePractice.dll
+C:\Users\jmd22\repos\IfElsePractice\IfElsePractice\bin\Debug\netcoreapp3.1\IfElsePractice.pdb
+C:\Users\jmd22\repos\IfElsePractice\IfElsePractice\obj\Debug\netcoreapp3.1\IfElsePractice.csprojAssemblyReference.cache
+C:\Users\jmd22\repos\IfElsePractice\IfElsePractice\obj\Debug\netcoreapp3.1\IfElsePractice.AssemblyInfoInputs.cache
+C:\Users\jmd22\repos\IfElsePractice\IfElsePractice\obj\Debug\netcoreapp3.1\IfElsePractice.AssemblyInfo.cs
+C:\Users\jmd22\repos\IfElsePractice\IfElsePractice\obj\Debug\netcoreapp3.1\IfElsePractice.csproj.CoreCompileInputs.cache
+C:\Users\jmd22\repos\IfElsePractice\IfElsePractice\obj\Debug\netcoreapp3.1\IfElsePractice.dll
+C:\Users\jmd22\repos\IfElsePractice\IfElsePractice\obj\Debug\netcoreapp3.1\IfElsePractice.pdb
+C:\Users\jmd22\repos\IfElsePractice\IfElsePractice\obj\Debug\netcoreapp3.1\IfElsePractice.genruntimeconfig.cache
